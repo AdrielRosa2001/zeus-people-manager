@@ -1,7 +1,7 @@
 # Zeus People Manager
 CRUD Simples em JAVA Swing - Atividade avaliatia final de Programação de Soluções computacionais.
 
-![preview](./demo/main.png)
+![preview](./demo/main.gif)
 
 > Adriel Rosa (update 01/07/2023  16:38 PM)
 
